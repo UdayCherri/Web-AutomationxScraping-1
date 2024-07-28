@@ -1,19 +1,19 @@
-I worked on a Project Using Selenium and Beautiful Soup
+I worked on a Project Using <b>Selenium</b> and <b>Beautiful Soup</b>
 <br>
 <br>
-Aim : Extract Today's Headlines or View Today's Newspaper
+<i>Aim</i> : Extract Today's Headlines or View Today's Newspaper
 <br>
 <br>
-Sources : For Newspaper ( The New York Times )
+<i>Sources</i> : For Newspaper ( The New York Times )
 <br>
 <br>
-Required Knowledge : Python (Basics), Selenium, Beautiful Soup
+<i>Required Knowledge</i> : Python (Basics), Selenium, Beautiful Soup
 <br>
 <br>
-Tools used : Visual Studio Code, Command Prompt or Terminal, Web Browser, Active Internet Connection.
+<i>Tools used</i> : Visual Studio Code, Command Prompt or Terminal, Web Browser, Active Internet Connection.
 <br>
 <br>
-Explanation : <br>
+<i>Explanation</i> : <br>
 I created a menu which displays two options and asks for user input. 
 When the user enters '1', it displays the Main topics and Sub topics of today's Newspaper, which is possible because of Beautiful Soup.
 When the user enters '2', it displays today's newspaper, which is made possible using Selenium.
