@@ -42,10 +42,14 @@ def Extract():
 
 def View():
         driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+        driver.maximize_window()
         driver.get("https://www.nytimes.com/section/todayspaper/")
         paper = driver.find_element(By.XPATH, '//*[@id="collection-todays-new-york-times"]/div[1]/section[1]/div[2]/section/div/div[2]/button/img')
         paper.click()
         view = driver.find_element(By.XPATH, '/html/body/div[4]/div/div/div/div/div/div/div/div/div[2]/a')
         view.click()
         time.sleep(1000)
+
+if __name__ == "__main__":
+    main()
 
