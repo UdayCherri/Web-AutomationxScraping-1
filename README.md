@@ -1,12 +1,17 @@
 I worked on a Project Using Selenium and Beautiful Soup
 <br>
+<br>
 Aim : Extract Today's Headlines or View Today's Newspaper
+<br>
 <br>
 Sources : For Newspaper ( The New York Times )
 <br>
+<br>
 Required Knowledge : Python (Basics), Selenium, Beautiful Soup
 <br>
+<br>
 Tools used : Visual Studio Code, Command Prompt or Terminal, Web Browser, Active Internet Connection.
+<br>
 <br>
 Explanation : <br>
 I created a menu which displays two options and asks for user input. 
